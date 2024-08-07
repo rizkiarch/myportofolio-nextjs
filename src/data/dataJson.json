@@ -1,0 +1,65 @@
+[
+    {
+    "job": [
+        {
+            "title": "Software Engineer"
+        },
+        {
+            "title": "Web Developer"
+        },
+        {
+            "title": "IT Support"
+        }
+    ], 
+    "name": "Muhamad Rizki",
+    "desc": "Experienced web developer skilled in Laravel, CodeIgniter, React.js, Vue.js. I am passionate about learning new technologies and continuously enhancing my skills to stay updated with the latest trends in web development. My curiosity and eagerness to learn drive me to take on new challenges and deliver innovative solutions.",
+    "aboutDesc": "Hello! I am an experienced web developer with a strong background in PHP, specializing in frameworks such as Laravel and CodeIgniter. My skill set also includes expertise in front-end technologies like Bootstrap, Tailwind, React.js, and Vue.js. Over the years, I have successfully developed various systems, including attendance management systems, point of sales (POS) applications, and automated WhatsApp messaging solutions using the WhatsApp API. I am passionate about learning new technologies and continuously enhancing my skills to stay updated with the latest trends in web development. My curiosity and eagerness to learn drive me to take on new challenges and deliver innovative solutions.",
+    "email": "muhamadrizki.personal@gmail.com",
+    "status": "on",
+    "hireMeLink": "https://www.linkedin.com/in/muhamad-rizki-personal",
+    "projects": [
+        {
+            "project-image-icon": "Store",
+            "project-name": "Point Of Sales",
+            "project-desc": " CodeIgniter + Bootstrap ",
+            "project-url": "www.github.com"
+        },
+        {
+            "project-image-icon": "Fingerprint",
+            "project-name": "Attendance Management System",
+            "project-desc": "CodeIgniter + Bootstrap ",
+            "project-url": "www.github.com"
+        },
+        {
+            "project-image-icon": "Message",
+            "project-name": "Automated WhatsApp Messaging Solution",
+            "project-desc": "WhatsApp API + Laravel ",
+            "project-url": "https://github.com/rizkiarch/rumah_kost"
+        },
+        {
+            "project-image-icon": "Group",
+            "project-name": "Organization Management System",
+            "project-desc": "Laravel + VueJs ",
+            "project-url": "https://github.com/rizkiarch/Wolffighter"
+        }
+    ],
+    "social": [
+      {
+        "icon": "Twitter",
+        "link": "https://x.com"
+      },
+      {
+        "icon": "Instagram",
+        "link": "https://instagram.com/yaelah_ikay"
+      },
+      {
+        "icon": "GitHub",
+        "link": "https://github.com/rizkiarch"
+      },
+      {
+        "icon": "LinkedIn",
+        "link": "https://www.linkedin.com/in/muhamad-rizki-personal/"
+      }
+    ]
+    }
+]

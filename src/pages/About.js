@@ -24,7 +24,7 @@ export default function About() {
                 </div>
             </div>
             <div className="flex flex-col items-center justify-center">
-                <h1 className="text-3xl font-semibold">Let's work together.</h1>
+                <h1 className="text-3xl font-semibold">Let's work together..</h1>
                 <p className="text-md font-normal text-gray-500 text-center px-3">
                     My curiosity and eagerness to learn drive me to take on new challenges and deliver innovative solutions
                 </p>

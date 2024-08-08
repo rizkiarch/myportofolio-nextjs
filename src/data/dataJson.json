@@ -41,7 +41,13 @@
             "project-name": "Organization Management System",
             "project-desc": "Laravel + VueJs ",
             "project-url": "https://github.com/rizkiarch/Wolffighter"
-        }
+        },
+        {
+          "project-image-icon": "Truck",
+          "project-name": "Cek Ongkos Kirim",
+          "project-desc": "Laravel + ReactJs ",
+          "project-url": "https://github.com/rizkiarch/cek_ongkir"
+      }
     ],
     "social": [
       {

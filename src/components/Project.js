@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Datas from "@/data/dataJson.json";
-import { Store, Fingerprint, Message, Group } from '@mui/icons-material';
+import { Store, Fingerprint, Message, Group, LocalShipping } from '@mui/icons-material';
 
 const Card = ({ projects, onViewAll }) => {
     const configData = Datas[0];
@@ -29,6 +29,8 @@ const Card = ({ projects, onViewAll }) => {
                 return <Message className="w-full h-full" />;
             case 'Group':
                 return <Group className="w-full h-full" />;
+            case 'Truck':
+                return <LocalShipping className="w-full h-full" />;
             default:
                 return null;
         }

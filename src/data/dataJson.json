@@ -47,7 +47,13 @@
           "project-name": "Cek Ongkos Kirim",
           "project-desc": "Laravel + ReactJs ",
           "project-url": "https://github.com/rizkiarch/cek_ongkir"
-      }
+      } ,
+        {
+          "project-image-icon": "Store",
+          "project-name": "Rental Office",
+          "project-desc": "Laravel + ReactJs ",
+          "project-url": "https://github.com/rizkiarch/backend-RentalOffice"
+        }
     ],
     "social": [
       {

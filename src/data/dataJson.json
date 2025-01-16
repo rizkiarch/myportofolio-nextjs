@@ -53,6 +53,12 @@
           "project-name": "Rental Office",
           "project-desc": "Laravel + ReactJs ",
           "project-url": "https://github.com/rizkiarch/backend-RentalOffice"
+        } ,
+        {
+          "project-image-icon": "Search",
+          "project-name": "Search Domain",
+          "project-desc": "Laravel + ReactJs ",
+          "project-url": "https://github.com/rizkiarch"
         }
     ],
     "social": [

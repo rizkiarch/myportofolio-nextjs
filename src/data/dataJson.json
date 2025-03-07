@@ -59,6 +59,18 @@
           "project-name": "Search Domain",
           "project-desc": "Laravel + ReactJs ",
           "project-url": "https://github.com/rizkiarch"
+        } ,
+        {
+          "project-image-icon": "Store",
+          "project-name": "Inventory Management System",
+          "project-desc": "Laravel + ReactJs ",
+          "project-url": "https://github.com/rizkiarch"
+        },
+        {
+          "project-image-icon": "Store",
+          "project-name": "Telegram Bot",
+          "project-desc": "Build with NodeJs, Gemini AI, API News, API price Cryptocurrency",
+          "project-url": "https://github.com/rizkiarch"
         }
     ],
     "social": [
